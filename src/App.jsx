@@ -16,6 +16,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
         <h1>New Heading</h1>
+        <h1>Feature Branch Added</h1>
+        <h1>Feature Branch</h1>
       </div>
       <h1>Vite + React</h1>
       <div className="card">
@@ -29,7 +31,6 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <h1>Feature Branch</h1>
       <p className="read-the-docs">Added for Main Commit</p>
     </>
   );
